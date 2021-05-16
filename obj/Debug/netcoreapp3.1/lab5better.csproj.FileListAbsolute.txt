@@ -1,0 +1,13 @@
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\lab5better\obj\Debug\netcoreapp3.1\lab5better.csprojAssemblyReference.cache
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\lab5better\obj\Debug\netcoreapp3.1\lab5better.AssemblyInfoInputs.cache
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\lab5better\obj\Debug\netcoreapp3.1\lab5better.AssemblyInfo.cs
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\lab5better\obj\Debug\netcoreapp3.1\lab5better.csproj.CoreCompileInputs.cache
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\lab5better\bin\Debug\netcoreapp3.1\lab5better.exe
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\lab5better\bin\Debug\netcoreapp3.1\lab5better.deps.json
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\lab5better\bin\Debug\netcoreapp3.1\lab5better.runtimeconfig.json
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\lab5better\bin\Debug\netcoreapp3.1\lab5better.runtimeconfig.dev.json
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\lab5better\bin\Debug\netcoreapp3.1\lab5better.dll
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\lab5better\bin\Debug\netcoreapp3.1\lab5better.pdb
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\lab5better\obj\Debug\netcoreapp3.1\lab5better.dll
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\lab5better\obj\Debug\netcoreapp3.1\lab5better.pdb
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\lab5better\obj\Debug\netcoreapp3.1\lab5better.genruntimeconfig.cache
